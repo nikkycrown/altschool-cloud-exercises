@@ -32,4 +32,13 @@ This is a private repo for my Altschool Cloud Exercises.
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/109033746/195037911-fa167102-ffd6-42f8-a443-8eec1bd352f9.png)
 
+# Exercise4
+* content of /etc/passwd
+* content of /etc/group
+* content of /etc/sudoers
+
+![Screenshot (18)](https://user-images.githubusercontent.com/109033746/195040157-7876ae17-a781-4a10-a785-4b696063141a.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/109033746/195040292-443f6005-9481-4b6a-9f2f-78e82e2d5c16.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/109033746/195040497-c5c45f6e-a9f6-4252-8bd4-2660ff0e2d7c.png)
+
 
