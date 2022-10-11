@@ -10,7 +10,6 @@ This is a private repo for my Altschool Cloud Exercises.
 * cal - show the current month calendar
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/109033746/195029259-e0243754-e37a-467d-8dba-6f35778cd01d.png)
-nux commands
 
 * compgen -c - used to reference all available commands
 ![Screenshot (6)](https://user-images.githubusercontent.com/109033746/195031972-a584a9bd-fdd3-415c-af90-1a4f2b9066ab.png)
