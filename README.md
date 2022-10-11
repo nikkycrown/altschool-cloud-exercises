@@ -32,7 +32,7 @@ This is a private repo for my Altschool Cloud Exercises.
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/109033746/195037911-fa167102-ffd6-42f8-a443-8eec1bd352f9.png)
 
-# Exercise4
+# i learnt how to create groups, users and generate ssh keys.
 * content of /etc/passwd
 * content of /etc/group
 * content of /etc/sudoers
@@ -40,5 +40,12 @@ This is a private repo for my Altschool Cloud Exercises.
 ![Screenshot (18)](https://user-images.githubusercontent.com/109033746/195040157-7876ae17-a781-4a10-a785-4b696063141a.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/109033746/195040292-443f6005-9481-4b6a-9f2f-78e82e2d5c16.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/109033746/195040497-c5c45f6e-a9f6-4252-8bd4-2660ff0e2d7c.png)
+
+# i learnt how to use the add-apt-repository command and installed PHP 7.4 on my linux machine using the ppa.ondrej/php package repo
+* $php -v
+* /etc/apt/sources.list
+
+![Screenshot (20)](https://user-images.githubusercontent.com/109033746/195042611-15920e44-179a-4c41-9108-f55c0d834b9a.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/109033746/195042881-237dd4b5-911a-4ddc-acd4-1ba6f5a82500.png)
 
 
