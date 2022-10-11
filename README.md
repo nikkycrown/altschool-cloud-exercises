@@ -27,3 +27,9 @@ This is a private repo for my Altschool Cloud Exercises.
 * $timedatectl - shows more details about date and time
 * $exit - exits out of directory
 ![Screenshot (13)](https://user-images.githubusercontent.com/109033746/195036343-14c28c02-1af1-4bfd-8230-eef7ce090903.png)
+
+# Timezone changed to Africa/Lagos
+
+![Screenshot (12)](https://user-images.githubusercontent.com/109033746/195037911-fa167102-ffd6-42f8-a443-8eec1bd352f9.png)
+
+
