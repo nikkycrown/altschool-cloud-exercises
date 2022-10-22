@@ -48,4 +48,10 @@ This is a private repo for my Altschool Cloud Exercises.
 ![Screenshot (20)](https://user-images.githubusercontent.com/109033746/195042611-15920e44-179a-4c41-9108-f55c0d834b9a.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/109033746/195042881-237dd4b5-911a-4ddc-acd4-1ba6f5a82500.png)
 
-
+# Exercise 6
+* git config -l
+* git remote -v
+* git log
+![Screenshot (23)](https://user-images.githubusercontent.com/109033746/197366540-996ca326-0186-439f-ba33-2c51f2fc1efe.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/109033746/197366650-9a9ed585-0853-4248-8987-137d4eded7d3.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/109033746/197366664-454688da-db9c-48e7-84fc-57a6b0fea85b.png)
