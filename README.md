@@ -52,6 +52,17 @@ This is a private repo for my Altschool Cloud Exercises.
 * git config -l
 * git remote -v
 * git log
+
 ![Screenshot (23)](https://user-images.githubusercontent.com/109033746/197366540-996ca326-0186-439f-ba33-2c51f2fc1efe.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/109033746/197366650-9a9ed585-0853-4248-8987-137d4eded7d3.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/109033746/197366664-454688da-db9c-48e7-84fc-57a6b0fea85b.png)
+
+# I created a bash script to run at every hour, saving system memory (RAM) usage to a specified file and at midnight, it sends the content of the file to a specified email address :
+* content of script
+* cronjob
+* sample of email sent and attached file :
+
+![Screenshot (30)](https://user-images.githubusercontent.com/109033746/197367161-8e40591c-e7b8-454b-9408-9894fc48af0c.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/109033746/197367170-c52475a5-0986-487f-99f1-d06e6d0a2c2c.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/109033746/197367202-04e2261f-36c6-460a-9608-31b1954070eb.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/109033746/197367216-5021a771-3b2a-4402-ab62-e5ee1cb6e768.png)
