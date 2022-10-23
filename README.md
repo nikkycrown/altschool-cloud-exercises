@@ -66,3 +66,10 @@ This is a private repo for my Altschool Cloud Exercises.
 ![Screenshot (27)](https://user-images.githubusercontent.com/109033746/197367170-c52475a5-0986-487f-99f1-d06e6d0a2c2c.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/109033746/197367202-04e2261f-36c6-460a-9608-31b1954070eb.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/109033746/197367216-5021a771-3b2a-4402-ab62-e5ee1cb6e768.png)
+
+# IP addressing exercise
+## Given netmask of 193.16.20.35/29 :
+### * Network IP = 193.16.20.32
+### * Number of Host = 6
+### * Range of IP address = 193.16.20.33 (min range) - 193.16.20.38 (max range)
+### * Broadcast IP = 193.16.20.39
