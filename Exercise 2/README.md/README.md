@@ -2,4 +2,5 @@
 
 >$timedatectl set-timezone Africa/Lagos
 
-![Screenshot (2)](https://user-images.githubusercontent.com/109033746/197370052-e94ff247-c52c-435e-acfd-a7bff75820e7.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/109033746/197370127-683f50c4-3f4c-4cc1-950e-56de550298fc.png)
+
