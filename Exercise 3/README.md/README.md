@@ -1,30 +1,30 @@
 ## 10 more Linux commands
 * to show user identity, run:
->$id
+>$ id
 
 * to show the current month calendar, run:
->$cal
+>$ cal
 
 * to display memory and swap usage, run:
->$free
+>$ free
 
 * to list most recent commands , run:
->$history
+>$ history
 
 * to reference all available aliases, run:
->$compgen -a
+>$ compgen -a
 
 * to reference all available functions:
->$compgen -d
+>$ compgen -d
 
 * to reference all available commands
->$compgen -c
+>$ compgen -c
 
 * to show more details about time and date
->$timedatectl
+>$ timedatectl
 
 * to exit out of directory
->$exit
+>$ exit
 
 * to set clear aliases to be c
->$alias c=clear
+>$ alias c=clear
