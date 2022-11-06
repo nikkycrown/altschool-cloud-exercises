@@ -1,0 +1,10 @@
+---
+# tasks file for pgsql
+
+- name: send bash script to slave
+  template:
+    src: pgsql.sh.j2
+    dest: "/home/ubuntu/pgsql.sh"
+
+- name: Execute bash script on salve
+  script: pgsql.sh
