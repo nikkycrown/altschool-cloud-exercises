@@ -16,4 +16,4 @@ sudo apt-get update
 
 # If you want a specific version, use 'postgresql-15' or similar instead of 'postgresql'
 
-sudo apt install postgresql -y
+sudo apt -y install postgresql-15

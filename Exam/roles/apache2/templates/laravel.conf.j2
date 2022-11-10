@@ -1,23 +1,28 @@
 <VirtualHost *:80>
 
-    ServerAdmin admin@example.com
+    ServerName escuze.me
 
-    ServerName mydomain.com
+    ServerAlias www.escuze.me
 
     DocumentRoot /var/www/laravel-realworld-example-app/public
 
     <Directory /var/www/laravel-realworld-example-app>
 
-    Options Indexes MultiViews
+    Options Indexes FollowSymLinks MultiViews
 
-    AllowOverride None
+    AllowOverride All
+
+    Order allow,deny
+
+    allow from all
 
     Require all granted
 
     </Directory>
 
+    LogLevel debug
+
     ErrorLog ${APACHE_LOG_DIR}/error.log
 
     CustomLog ${APACHE_LOG_DIR}/access.log combined
-
 </VirtualHost>
