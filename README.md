@@ -1,3 +1,3 @@
 ---
-This is a private repo for my Altschool Cloud Exercises.
+This is a repo for my Altschool Cloud Exercises.
 ---
